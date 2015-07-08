@@ -6,16 +6,24 @@ use Getopt::Long;
 
 
 ###################################################################
-my $gff3_file;
+my (@types, %typesh);
+my ($gff3_file);
 
 
 ###################################################################
 Getoptions(
-    'gff3|gff=s'  =>  \$gff3_file;
+    'gff3|gff=s'  =>  \$gff3_file,
+    'type=s'  =>  \@types,
 ) || die "illegal params!";
+
+@typesh{@types} = "" x scalar(@types);
 
 
 ###################################################################
+open(my $IN, "<", $gff3_file) || die;
+while(my $line = <$IN>){
+    chomp($line);
+}
 
 
 
