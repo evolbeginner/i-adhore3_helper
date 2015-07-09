@@ -10,6 +10,7 @@ use File::Basename;
 my ($outfile);
 my ($genome_indir, $blast_table, $output_path, $param);
 
+my $visGPairs_param = "visGPairs= ";
 
 $param =
 '
@@ -20,10 +21,9 @@ prob_cutoff=0.01
 anchor_points=3
 alignment_method=gg4
 level_2_only=false
-#table_type=family
+table_type=pairs
 multiple_hypothesis_correction=FDR
 visualizeGHM=true
-visGPairs=1 ath 2 ath
 visualizeAlignment=true
 ';
 
@@ -80,6 +80,10 @@ GetOptions(
 
 open(my $OUT, ">", $outfile) || die;
 
+$genome_indir =~ s/\/?$//;
+$visGPairs_param .= "1 $genome_indir 2 $genome_indir";
+$param .= $visGPairs_param;
+
 
 ###################################################################
 my $output = &process_genome_indir($genome_indir);
@@ -94,5 +98,5 @@ print $OUT $output."\n";
 $output = &process_params($param);
 print $OUT $output."\n";
 
-
+close $OUT;
 
