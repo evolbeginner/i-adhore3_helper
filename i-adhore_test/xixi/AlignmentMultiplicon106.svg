@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="14cm" height="10.75cm" >
+<rect x="5.5cm" y="5.5cm" width="1.625cm" height="1.625cm" fill="#463074" stroke-width="5" />
+<circle cx="6.3125cm" cy="6.3125cm" r="0.325cm" />
+<rect x="7.625cm" y="5.5cm" width="1.625cm" height="1.625cm" fill="#a3509b" stroke-width="5" />
+<circle cx="8.4375cm" cy="6.3125cm" r="0.325cm" />
+<rect x="9.75cm" y="5.5cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="10.5625cm" cy="6.3125cm" r="0.325cm" />
+<rect x="11.875cm" y="5.5cm" width="1.625cm" height="1.625cm" fill="#7d1da3" stroke-width="5" />
+<circle cx="12.6875cm" cy="6.3125cm" r="0.325cm" />
+<rect x="5.5cm" y="8.125cm" width="1.625cm" height="1.625cm" fill="#463074" stroke-width="5" />
+<circle cx="6.3125cm" cy="8.9375cm" r="0.325cm" />
+<rect x="7.625cm" y="8.125cm" width="1.625cm" height="1.625cm" fill="#a3509b" stroke-width="5" />
+<circle cx="8.4375cm" cy="8.9375cm" r="0.325cm" />
+<rect x="9.75cm" y="8.125cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="10.5625cm" cy="8.9375cm" r="0.325cm" />
+<rect x="11.875cm" y="8.125cm" width="1.625cm" height="1.625cm" fill="#7d1da3" stroke-width="5" />
+<circle cx="12.6875cm" cy="8.9375cm" r="0.325cm" />
+<text x="5.5cm" y="5.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G049288
+</text>
+<text x="7.625cm" y="5.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G049229
+</text>
+<text x="9.75cm" y="5.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G349376
+</text>
+<text x="11.875cm" y="5.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G134045
+</text>
+<text x="5.5cm" y="7.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G001895
+</text>
+<text x="7.625cm" y="7.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G001930
+</text>
+<text x="9.75cm" y="7.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G550995
+</text>
+<text x="11.875cm" y="7.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G094390
+</text>
+<text x="0.5cm" y="6.3125cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 10
+</text>
+<text x="0.5cm" y="8.9375cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 1
+</text>
+</svg>

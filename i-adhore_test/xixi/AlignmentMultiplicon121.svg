@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="19.375cm" height="9.75cm" >
+<rect x="4.5cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#88ae27" stroke-width="5" />
+<circle cx="5.3125cm" cy="5.3125cm" r="0.325cm" />
+<rect x="6.625cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="7.4375cm" cy="5.3125cm" r="0.325cm" />
+<rect x="8.75cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#1ab133" stroke-width="5" />
+<circle cx="9.5625cm" cy="5.3125cm" r="0.325cm" />
+<rect x="10.875cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="11.6875cm" cy="5.3125cm" r="0.325cm" />
+<rect x="13cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="13.8125cm" cy="5.3125cm" r="0.325cm" />
+<rect x="15.125cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#000000" stroke-width="5" />
+<circle cx="15.9375cm" cy="5.3125cm" r="0.325cm" />
+<rect x="17.25cm" y="4.5cm" width="1.625cm" height="1.625cm" fill="#c17277" stroke-width="5" />
+<circle cx="18.0625cm" cy="5.3125cm" r="0.325cm" />
+<rect x="4.5cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#88ae27" stroke-width="5" />
+<circle cx="5.3125cm" cy="7.9375cm" r="0.325cm" />
+<rect x="6.625cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#ffffff" stroke-width="5" />
+<circle cx="7.4375cm" cy="7.9375cm" r="0.325cm" />
+<rect x="8.75cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#1ab133" stroke-width="5" />
+<circle cx="9.5625cm" cy="7.9375cm" r="0.325cm" />
+<rect x="10.875cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#ffffff" stroke-width="5" />
+<circle cx="11.6875cm" cy="7.9375cm" r="0.325cm" />
+<rect x="13cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#ffffff" stroke-width="5" />
+<circle cx="13.8125cm" cy="7.9375cm" r="0.325cm" />
+<rect x="15.125cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#ffffff" stroke-width="5" />
+<circle cx="15.9375cm" cy="7.9375cm" r="0.325cm" />
+<rect x="17.25cm" y="7.125cm" width="1.625cm" height="1.625cm" fill="#c17277" stroke-width="5" />
+<circle cx="18.0625cm" cy="7.9375cm" r="0.325cm" />
+<text x="4.5cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G122185
+</text>
+<text x="6.625cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G129150
+</text>
+<text x="8.75cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G129140
+</text>
+<text x="10.875cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G129083
+</text>
+<text x="13cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G430685
+</text>
+<text x="15.125cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G128986
+</text>
+<text x="17.25cm" y="4.3375cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G033489
+</text>
+<text x="4.5cm" y="6.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G100448
+</text>
+<text x="8.75cm" y="6.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G118172
+</text>
+<text x="17.25cm" y="6.9625cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G176235
+</text>
+<text x="0.5cm" y="5.3125cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 6
+</text>
+<text x="0.5cm" y="7.9375cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 1
+</text>
+</svg>

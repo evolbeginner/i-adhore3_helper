@@ -1,0 +1,461 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="137cm" height="10.5cm" >
+<rect x="4.5cm" y="4.5cm" width="2cm" height="2cm" fill="#19e23f" stroke-width="5" />
+<circle cx="5.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="7cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="8cm" cy="5.5cm" r="0.4cm" />
+<rect x="9.5cm" y="4.5cm" width="2cm" height="2cm" fill="#876945" stroke-width="5" />
+<circle cx="10.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="12cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="13cm" cy="5.5cm" r="0.4cm" />
+<rect x="14.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="15.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="17cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="18cm" cy="5.5cm" r="0.4cm" />
+<rect x="19.5cm" y="4.5cm" width="2cm" height="2cm" fill="#c87e18" stroke-width="5" />
+<circle cx="20.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="22cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="23cm" cy="5.5cm" r="0.4cm" />
+<rect x="24.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="25.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="27cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="28cm" cy="5.5cm" r="0.4cm" />
+<rect x="29.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="30.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="32cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="33cm" cy="5.5cm" r="0.4cm" />
+<rect x="34.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="35.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="37cm" y="4.5cm" width="2cm" height="2cm" fill="#e224d7" stroke-width="5" />
+<circle cx="38cm" cy="5.5cm" r="0.4cm" />
+<rect x="39.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="40.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="42cm" y="4.5cm" width="2cm" height="2cm" fill="#165296" stroke-width="5" />
+<circle cx="43cm" cy="5.5cm" r="0.4cm" />
+<rect x="44.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="45.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="47cm" y="4.5cm" width="2cm" height="2cm" fill="#b43f4f" stroke-width="5" />
+<circle cx="48cm" cy="5.5cm" r="0.4cm" />
+<rect x="49.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="50.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="52cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="53cm" cy="5.5cm" r="0.4cm" />
+<rect x="54.5cm" y="4.5cm" width="2cm" height="2cm" fill="#8506b9" stroke-width="5" />
+<circle cx="55.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="57cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="58cm" cy="5.5cm" r="0.4cm" />
+<rect x="59.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="60.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="62cm" y="4.5cm" width="2cm" height="2cm" fill="#85e00e" stroke-width="5" />
+<circle cx="63cm" cy="5.5cm" r="0.4cm" />
+<rect x="64.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="65.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="67cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="68cm" cy="5.5cm" r="0.4cm" />
+<rect x="69.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="70.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="72cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="73cm" cy="5.5cm" r="0.4cm" />
+<rect x="74.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="75.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="77cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="78cm" cy="5.5cm" r="0.4cm" />
+<rect x="79.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="80.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="82cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="83cm" cy="5.5cm" r="0.4cm" />
+<rect x="84.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="85.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="87cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="88cm" cy="5.5cm" r="0.4cm" />
+<rect x="89.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="90.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="92cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="93cm" cy="5.5cm" r="0.4cm" />
+<rect x="94.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="95.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="97cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="98cm" cy="5.5cm" r="0.4cm" />
+<rect x="99.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="100.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="102cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="103cm" cy="5.5cm" r="0.4cm" />
+<rect x="104.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="105.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="107cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="108cm" cy="5.5cm" r="0.4cm" />
+<rect x="109.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="110.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="112cm" y="4.5cm" width="2cm" height="2cm" fill="#80b24a" stroke-width="5" />
+<circle cx="113cm" cy="5.5cm" r="0.4cm" />
+<rect x="114.5cm" y="4.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="115.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="117cm" y="4.5cm" width="2cm" height="2cm" fill="#c5b946" stroke-width="5" />
+<circle cx="118cm" cy="5.5cm" r="0.4cm" />
+<rect x="119.5cm" y="4.5cm" width="2cm" height="2cm" fill="#95d228" stroke-width="5" />
+<circle cx="120.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="122cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="123cm" cy="5.5cm" r="0.4cm" />
+<rect x="124.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="125.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="127cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="128cm" cy="5.5cm" r="0.4cm" />
+<rect x="129.5cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="130.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="132cm" y="4.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="133cm" cy="5.5cm" r="0.4cm" />
+<rect x="134.5cm" y="4.5cm" width="2cm" height="2cm" fill="#d45a91" stroke-width="5" />
+<circle cx="135.5cm" cy="5.5cm" r="0.4cm" />
+<rect x="4.5cm" y="7.5cm" width="2cm" height="2cm" fill="#19e23f" stroke-width="5" />
+<circle cx="5.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="7cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="8cm" cy="8.5cm" r="0.4cm" />
+<rect x="9.5cm" y="7.5cm" width="2cm" height="2cm" fill="#876945" stroke-width="5" />
+<circle cx="10.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="12cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="13cm" cy="8.5cm" r="0.4cm" />
+<rect x="14.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="15.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="17cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="18cm" cy="8.5cm" r="0.4cm" />
+<rect x="19.5cm" y="7.5cm" width="2cm" height="2cm" fill="#c87e18" stroke-width="5" />
+<circle cx="20.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="22cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="23cm" cy="8.5cm" r="0.4cm" />
+<rect x="24.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="25.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="27cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="28cm" cy="8.5cm" r="0.4cm" />
+<rect x="29.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="30.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="32cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="33cm" cy="8.5cm" r="0.4cm" />
+<rect x="34.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="35.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="37cm" y="7.5cm" width="2cm" height="2cm" fill="#e224d7" stroke-width="5" />
+<circle cx="38cm" cy="8.5cm" r="0.4cm" />
+<rect x="39.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="40.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="42cm" y="7.5cm" width="2cm" height="2cm" fill="#165296" stroke-width="5" />
+<circle cx="43cm" cy="8.5cm" r="0.4cm" />
+<rect x="44.5cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="45.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="47cm" y="7.5cm" width="2cm" height="2cm" fill="#b43f4f" stroke-width="5" />
+<circle cx="48cm" cy="8.5cm" r="0.4cm" />
+<rect x="49.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="50.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="52cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="53cm" cy="8.5cm" r="0.4cm" />
+<rect x="54.5cm" y="7.5cm" width="2cm" height="2cm" fill="#8506b9" stroke-width="5" />
+<circle cx="55.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="57cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="58cm" cy="8.5cm" r="0.4cm" />
+<rect x="59.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="60.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="62cm" y="7.5cm" width="2cm" height="2cm" fill="#85e00e" stroke-width="5" />
+<circle cx="63cm" cy="8.5cm" r="0.4cm" />
+<rect x="64.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="65.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="67cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="68cm" cy="8.5cm" r="0.4cm" />
+<rect x="69.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="70.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="72cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="73cm" cy="8.5cm" r="0.4cm" />
+<rect x="74.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="75.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="77cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="78cm" cy="8.5cm" r="0.4cm" />
+<rect x="79.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="80.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="82cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="83cm" cy="8.5cm" r="0.4cm" />
+<rect x="84.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="85.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="87cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="88cm" cy="8.5cm" r="0.4cm" />
+<rect x="89.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="90.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="92cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="93cm" cy="8.5cm" r="0.4cm" />
+<rect x="94.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="95.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="97cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="98cm" cy="8.5cm" r="0.4cm" />
+<rect x="99.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="100.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="102cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="103cm" cy="8.5cm" r="0.4cm" />
+<rect x="104.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="105.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="107cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="108cm" cy="8.5cm" r="0.4cm" />
+<rect x="109.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="110.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="112cm" y="7.5cm" width="2cm" height="2cm" fill="#80b24a" stroke-width="5" />
+<circle cx="113cm" cy="8.5cm" r="0.4cm" />
+<rect x="114.5cm" y="7.5cm" width="2cm" height="2cm" fill="#000000" stroke-width="5" />
+<circle cx="115.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="117cm" y="7.5cm" width="2cm" height="2cm" fill="#c5b946" stroke-width="5" />
+<circle cx="118cm" cy="8.5cm" r="0.4cm" />
+<rect x="119.5cm" y="7.5cm" width="2cm" height="2cm" fill="#95d228" stroke-width="5" />
+<circle cx="120.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="122cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="123cm" cy="8.5cm" r="0.4cm" />
+<rect x="124.5cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="125.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="127cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="128cm" cy="8.5cm" r="0.4cm" />
+<rect x="129.5cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="130.5cm" cy="8.5cm" r="0.4cm" />
+<rect x="132cm" y="7.5cm" width="2cm" height="2cm" fill="#ffffff" stroke-width="5" />
+<circle cx="133cm" cy="8.5cm" r="0.4cm" />
+<rect x="134.5cm" y="7.5cm" width="2cm" height="2cm" fill="#d45a91" stroke-width="5" />
+<circle cx="135.5cm" cy="8.5cm" r="0.4cm" />
+<text x="4.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G085600
+</text>
+<text x="9.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G112912
+</text>
+<text x="12cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G112908
+</text>
+<text x="14.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G112865
+</text>
+<text x="17cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G112836
+</text>
+<text x="19.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G112799
+</text>
+<text x="27cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G003963
+</text>
+<text x="37cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G370044
+</text>
+<text x="42cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G370048
+</text>
+<text x="44.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+AC205250.3_FG006
+</text>
+<text x="47cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G088286
+</text>
+<text x="54.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G336557
+</text>
+<text x="57cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G700803
+</text>
+<text x="59.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G179985
+</text>
+<text x="62cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G143756
+</text>
+<text x="67cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G143780
+</text>
+<text x="69.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G856812
+</text>
+<text x="74.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G868285
+</text>
+<text x="79.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+AC233788.2_FG002
+</text>
+<text x="82cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+AC233788.2_FG003
+</text>
+<text x="87cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G866699
+</text>
+<text x="92cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G801793
+</text>
+<text x="94.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G879240
+</text>
+<text x="99.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G840487
+</text>
+<text x="104.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G700806
+</text>
+<text x="107cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G328341
+</text>
+<text x="112cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G066755
+</text>
+<text x="117cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G357873
+</text>
+<text x="119.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G058024
+</text>
+<text x="122cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G311220
+</text>
+<text x="124.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G897342
+</text>
+<text x="127cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G863107
+</text>
+<text x="129.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G484919
+</text>
+<text x="132cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G046293
+</text>
+<text x="134.5cm" y="4.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G046418
+</text>
+<text x="4.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G007300
+</text>
+<text x="7cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G006763
+</text>
+<text x="9.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G306258
+</text>
+<text x="14.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G871592
+</text>
+<text x="19.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G376061
+</text>
+<text x="22cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G804618
+</text>
+<text x="24.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM5G843352
+</text>
+<text x="27cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G436295
+</text>
+<text x="29.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G302171
+</text>
+<text x="32cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G386991
+</text>
+<text x="34.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G014454
+</text>
+<text x="37cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G059134
+</text>
+<text x="39.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G359230
+</text>
+<text x="42cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G359234
+</text>
+<text x="47cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G126083
+</text>
+<text x="49.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G126077
+</text>
+<text x="52cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G123977
+</text>
+<text x="54.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G124016
+</text>
+<text x="57cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+AC214448.3_FG007
+</text>
+<text x="59.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G049893
+</text>
+<text x="62cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G049877
+</text>
+<text x="64.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G349651
+</text>
+<text x="67cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G049510
+</text>
+<text x="69.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G062218
+</text>
+<text x="72cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G127040
+</text>
+<text x="74.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G127034
+</text>
+<text x="77cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G426953
+</text>
+<text x="79.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G132614
+</text>
+<text x="82cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G096470
+</text>
+<text x="84.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G326933
+</text>
+<text x="87cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+AC196780.4_FG003
+</text>
+<text x="89.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G032258
+</text>
+<text x="92cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G084465
+</text>
+<text x="94.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G303465
+</text>
+<text x="97cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G004314
+</text>
+<text x="99.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G023279
+</text>
+<text x="102cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G155954
+</text>
+<text x="104.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G456473
+</text>
+<text x="107cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G033630
+</text>
+<text x="109.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G504401
+</text>
+<text x="112cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G173542
+</text>
+<text x="114.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G475743
+</text>
+<text x="117cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G448633
+</text>
+<text x="119.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G122280
+</text>
+<text x="134.5cm" y="7.3cm" font-family="Verdana" font-size="6" fill="black" >
+GRMZM2G014720
+</text>
+<text x="0.5cm" y="5.5cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 9
+</text>
+<text x="0.5cm" y="8.5cm" font-family="Verdana" font-size="25" fill="black" >
+maize_genome_list 4
+</text>
+</svg>
